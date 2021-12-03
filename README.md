@@ -27,3 +27,6 @@ Check That Checker also includes a simple option to use your own dataset in your
 * they have to be moved into the same folder as the fixed datasets
 * to use them, you have to enter the exact name of the file into the corresponding field of the UI (including the .csv ending)
 * only one pair of custom training sets and one pair of custom test sets can be used per run
+
+Read more in our paper that published in CIRCLE20
+https://www.irit.fr/CIRCLE/wp-content/uploads/2020/06/CIRCLE20_33.pdf
